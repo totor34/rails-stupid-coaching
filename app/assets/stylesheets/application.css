@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+a {
+  color : green;
+  text-decoration: none;
+}
+
+
+.button {
+  color : green;
+  background: grey;
+  display :inline-block;
+
+}
